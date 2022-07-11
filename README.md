@@ -18,3 +18,12 @@ something to check (as is)
 
 *HTML
 *CSS
+
+## Installation
+
+No need to install any software, just open up class.html
+
+## how to use?
+
+Use this template to build you own portfolio
+
