@@ -13,3 +13,8 @@ This portfolio is a small project using HTML/CSS and Bootstrap. I will be using 
 =======
 something to check (as is)
 >>>>>>> b78261c24bd7aa42e8c2a4a9782e6718f642dc49
+
+## Technologies used
+
+*HTML
+*CSS
